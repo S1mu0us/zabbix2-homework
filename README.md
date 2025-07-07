@@ -40,7 +40,7 @@
 
 `Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2`
 
-Поскольку я поставил 2 хоста на ОС Windows, вместо шаблона `Linux by Zabbix Agent` использовался `Windows by Zabbix agent`
+Поскольку у меня оба хоста на ОС Windows, вместо шаблона `Linux by Zabbix Agent` использовался шаблон `Windows by Zabbix agent`
 
 
 ![Задание 1](img/hosts.png)
