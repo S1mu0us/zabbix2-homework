@@ -31,7 +31,8 @@
 `RAM`
 
 
-![Задание 1](img/img1.png)
+![Задание 1](img/zad1.png)
+![Задание 1](img/zad12.png)
 
 
 ---
@@ -55,9 +56,7 @@
 Был создан шаблон с мониторингом используемого в % RAM. Опять же, у меня оба хоста на ОС Windows, вместо шаблона `Linux by Zabbix Agent` использовался шаблон `Windows by Zabbix agent`
 
 
-![Задание 3.1](img/hosts2.png)
-![Задание 3.2](img/SEMEN.png)
-![Задание 3.3](img/YURA.png)
+![Задание 1](img/zad3.png)
 
 ### Задание 4
 
